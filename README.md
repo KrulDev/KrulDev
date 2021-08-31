@@ -1,10 +1,10 @@
 <div>
   <img
-    height="180em"
+    height="160em"
     src="https://github-readme-stats.vercel.app/api?username=KrulDev&show_icons=true&theme=jolly"
   />
   <img
-    height="180em"
+    height="160em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrulDev&show_icons=true&theme=jolly"
   />
 </div>
